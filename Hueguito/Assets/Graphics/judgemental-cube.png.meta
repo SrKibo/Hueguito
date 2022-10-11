@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d4608c267108f4a4880280cce5806908
+guid: 2cdf266001e33ad43940eda919ee1596
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -45,10 +45,10 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 4
-  spritePivot: {x: 0, y: 0.5}
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 138, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HanTyumi_idle-sheet_0
+      name: judgemental-cube_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 69
-        height: 118
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42408548d720cb848b398ed35ecbf207
-      internalID: 1403914412
+      spriteID: a0db3179d0770dd41a24fa433715a39b
+      internalID: -641847159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HanTyumi_idle-sheet_1
+      name: judgemental-cube_1
       rect:
         serializedVersion: 2
-        x: 69
+        x: 16
         y: 0
-        width: 69
-        height: 118
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,29 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43075f343d84a944882e6aee6d89185b
-      internalID: 1182074481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HanTyumi_idle-sheet_2
-      rect:
-        serializedVersion: 2
-        x: 138
-        y: 0
-        width: 69
-        height: 118
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0cbda827463245345992fb1cb9c51fd8
-      internalID: 129221590
+      spriteID: da0a6b7785c74664b87484d557e525bf
+      internalID: -1338307925
       vertices: []
       indices: 
       edges: []
@@ -183,16 +162,15 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      HanTyumi_idle-sheet_1: 1182074481
-      HanTyumi_idle-sheet_2: 129221590
-      HanTyumi_idle-sheet_0: 1403914412
+      judgemental-cube_1: -1338307925
+      judgemental-cube_0: -641847159
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
