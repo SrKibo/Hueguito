@@ -381,8 +381,8 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
---- !u!61 &166739497
-BoxCollider2D:
+--- !u!70 &166739497
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -394,19 +394,9 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0009831935}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16, y: 0.16}
-    newSize: {x: 0.16, y: 0.16}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.16, y: 0.16180995}
-  m_EdgeRadius: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.16, y: 0.16}
+  m_Direction: 0
 --- !u!1 &299775150
 GameObject:
   m_ObjectHideFlags: 0
@@ -421,6 +411,7 @@ GameObject:
   - component: {fileID: 299775154}
   - component: {fileID: 299775156}
   - component: {fileID: 299775157}
+  - component: {fileID: 299775158}
   m_Layer: 0
   m_Name: Han Tyumi
   m_TagString: Untagged
@@ -528,14 +519,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2326bf9e7956304aa215654ed34db1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 5
-  speed: 0
-  acceleration: 10
-  deceleration: 10
-  directionKeyPressed: 0
+  speed: 4
   rb: {fileID: 299775151}
   movement: {x: 0, y: 0}
+  lastMovement: {x: 0, y: 0}
   animator: {fileID: 299775157}
+  sp: {fileID: 0}
 --- !u!61 &299775156
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -549,7 +538,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.002387762, y: -0.19056493}
+  m_Offset: {x: -0.010281861, y: -0.3045919}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -560,7 +549,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 1
   serializedVersion: 2
-  m_Size: {x: 0.69, y: 0.73379076}
+  m_Size: {x: 0.9180547, y: 2.3808522}
   m_EdgeRadius: 0
 --- !u!95 &299775157
 Animator:
@@ -582,6 +571,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &299775158
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 299775150}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0053300476, y: -1.3272702}
+  m_Size: {x: 1.4756203, y: 0.5377093}
+  m_Direction: 1
 --- !u!1 &863316375
 GameObject:
   m_ObjectHideFlags: 0
