@@ -36,26 +36,33 @@ public class PlayerMovement : MonoBehaviour
         {
             directionKeyPressed = false;
         }
-
-        if(directionKeyPressed){
-            if(movement.x < 0)
-                speed = speed - acceleration * Time.deltaTime;
-            else if(movement.x > 0)
-                speed = speed + acceleration * Time.deltaTime;
-        }
-        else {
-            if(speed > deceleration * Time.deltaTime){
-                speed = speed - deceleration * Time.deltaTime;
-            }
-            else if(speed < deceleration * Time.deltaTime){
-                speed = speed + deceleration * Time.deltaTime;
-            }
-            else speed = 0;
-        }
         animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);
         animator.SetBool("IsMoving", directionKeyPressed);
     }
+//  ______     ______     ______     ______     __         ______     ______     ______     ______   __     ______     __   __    
+// /\  __ \   /\  ___\   /\  ___\   /\  ___\   /\ \       /\  ___\   /\  == \   /\  __ \   /\__  _\ /\ \   /\  __ \   /\ "-.\ \   
+// \ \  __ \  \ \ \____  \ \ \____  \ \  __\   \ \ \____  \ \  __\   \ \  __<   \ \  __ \  \/_/\ \/ \ \ \  \ \ \/\ \  \ \ \-.  \  
+//  \ \_\ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\    \ \_\  \ \_\  \ \_____\  \ \_\\"\_\ 
+//   \/_/\/_/   \/_____/   \/_____/   \/_____/   \/_____/   \/_____/   \/_/ /_/   \/_/\/_/     \/_/   \/_/   \/_____/   \/_/ \/_/ 
+                                                                                                                               
+    //     if(directionKeyPressed){
+    //         if(movement.x < 0)
+    //             speed = speed - acceleration * Time.deltaTime;
+    //         else if(movement.x > 0)
+    //             speed = speed + acceleration * Time.deltaTime;
+    //     }
+    //     else {
+    //         if(speed > deceleration * Time.deltaTime){
+    //             speed = speed - deceleration * Time.deltaTime;
+    //         }
+    //         else if(speed < deceleration * Time.deltaTime){
+    //             speed = speed + deceleration * Time.deltaTime;
+    //         }
+    //         else speed = 0;
+    //     }
+    // }
 
 // var Speed        : float = 0;//Don't touch this
 // var MaxSpeed     : float = 10;//This is the maximum speed that the object will achieve
@@ -76,11 +83,12 @@ public class PlayerMovement : MonoBehaviour
 //     else
 //         Speed = 0;
 // }
-
+    
     void FixedUpdate() 
     {
         //Physics
-        rb.MovePosition(rb.position + movement * Math.Abs(speed) * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movement * movement.magnitude * Time.fixedDeltaTime);
+        // rb.MovePosition(rb.position + movement * Math.Abs(speed) * Time.fixedDeltaTime);
         
     }
 }
