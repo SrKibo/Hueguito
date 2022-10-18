@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2cdf266001e33ad43940eda919ee1596
+guid: 140202328256f324dad176c739a81b77
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: judgemental-cube_0
+      name: Han_Tyumi_walk_front_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 1
+        y: 1
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0db3179d0770dd41a24fa433715a39b
-      internalID: -641847159
+      spriteID: d85288e0be3b87b4ba65c47178fb462f
+      internalID: -1897983430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: judgemental-cube_1
+      name: Han_Tyumi_walk_front_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 35
+        y: 1
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da0a6b7785c74664b87484d557e525bf
-      internalID: -1338307925
+      spriteID: bb8f0932cd485b04e97f7dc368dd5d83
+      internalID: 1525478659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Han_Tyumi_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d809545dbb250d646b1b6dd49e417815
+      internalID: 2142256197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Han_Tyumi_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d1a059ec42b942930f38dabcb0188
+      internalID: 719180104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Han_Tyumi_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f1c2a38c0f41c4e9429487d7122442
+      internalID: -1798432349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Han_Tyumi_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0c658782ead574c89a8c554c8ba336
+      internalID: 1625701316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Han_Tyumi_walk_front_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb716a279c7f344e816e2943573bb47
+      internalID: -799919210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Han_Tyumi_walk_front_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4659ca56d410e4b83838016a4827c9
+      internalID: -1045929420
       vertices: []
       indices: 
       edges: []
@@ -169,8 +295,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      judgemental-cube_1: -1338307925
-      judgemental-cube_0: -641847159
+      Han_Tyumi_walk_front_3: 719180104
+      Han_Tyumi_walk_front_4: -1798432349
+      Han_Tyumi_walk_front_0: -1897983430
+      Han_Tyumi_walk_front_2: 2142256197
+      Han_Tyumi_walk_front_1: 1525478659
+      Han_Tyumi_walk_front_5: 1625701316
+      Han_Tyumi_walk_front_6: -799919210
+      Han_Tyumi_walk_front_7: -1045929420
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
