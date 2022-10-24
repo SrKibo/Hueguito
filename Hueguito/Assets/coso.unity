@@ -192,6 +192,33 @@ PrefabInstance:
       objectReference: {fileID: 624684858}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2ac5c3ee1c0dbb74dba97958886528a8, type: 3}
+--- !u!1 &151818602 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2940470842377299954, guid: 2ac5c3ee1c0dbb74dba97958886528a8, type: 3}
+  m_PrefabInstance: {fileID: 46536711}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &151818603 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2940470842377299955, guid: 2ac5c3ee1c0dbb74dba97958886528a8, type: 3}
+  m_PrefabInstance: {fileID: 46536711}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &151818604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 151818602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c96bdd875049814fa292fcc7cd83afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timer: 0
+  timeBetweenShots: 0.5
+  bullet: {fileID: 8857807635458895572, guid: 80ce240d9478ecc42ba199ba9f68c649, type: 3}
+  bulletTransform: {fileID: 151818603}
+  canFire: 1
 --- !u!1 &163102635
 GameObject:
   m_ObjectHideFlags: 0
