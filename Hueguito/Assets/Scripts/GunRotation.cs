@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class GunRotation : MonoBehaviour
 {
-    public float speed;
+    public float speed, interpRatio = 1;
     public Transform target;
-    
+    public SpriteRenderer spriteRenderer;
     public Vector3 zAxis = new Vector3(0,0,1), mousePosition;
     
     
@@ -21,21 +21,47 @@ public class GunRotation : MonoBehaviour
     void FixedUpdate()
     {
         //TODO:
-        mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mousePosition = GetMousePosition();
+        RotateGun();
+        FlipGun(mousePosition);
         // pz.z = 0;
         // gameObject.transform.position = pz;
         // transform.RotateAround(transform.position, new Vector3(0,0,245), speed);
-        RotationTest();
     }
 
-    void GetMouseDirection(){
-        //get mouse screen position
+    Vector3 GetMousePosition()
+    {
+        return Camera.main.ScreenToWorldPoint(Input.mousePosition);
+    }
+
+    void RotateGun(){
+
+        LookAt(mousePosition);
         
-
     }
 
-    void RotationTest(){
-        //todo
+    protected void LookAt(Vector2 point)
+    {
+        float angle = AngleBetweenPoints(point, transform.position);
+        var targetRotation = Quaternion.Euler(new Vector3(0f, 0f, angle));
+        transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, interpRatio);
+    }
+
+    float AngleBetweenPoints(Vector2 a, Vector2 b)
+    {
+        return Mathf.Atan2(a.y - b.y, a.x - b.x) * Mathf.Rad2Deg;
+    }
+
+    void FlipGun(Vector3 vector)
+    {
+        if(transform.position.x - vector.x >= 0)
+        {
+            spriteRenderer.flipY = true;
+        }
+        else
+        {
+            spriteRenderer.flipY = false;
+        }
     }
 
     void LateUpdate () {
