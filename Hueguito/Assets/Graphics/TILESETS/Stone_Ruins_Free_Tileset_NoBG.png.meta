@@ -487,11 +487,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 163
-        y: 108
-        width: 43
-        height: 51
+        y: 117
+        width: 29
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1940,7 +1940,7 @@ TextureImporter:
         width: 13
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1961,7 +1961,7 @@ TextureImporter:
         width: 58
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1982,7 +1982,7 @@ TextureImporter:
         width: 54
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2003,7 +2003,7 @@ TextureImporter:
         width: 12
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2024,7 +2024,7 @@ TextureImporter:
         width: 48
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2045,7 +2045,7 @@ TextureImporter:
         width: 25
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2066,7 +2066,7 @@ TextureImporter:
         width: 45
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2087,7 +2087,7 @@ TextureImporter:
         width: 41
         height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2108,7 +2108,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2129,7 +2129,7 @@ TextureImporter:
         width: 64
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2150,7 +2150,7 @@ TextureImporter:
         width: 17
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2171,7 +2171,7 @@ TextureImporter:
         width: 32
         height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2192,7 +2192,7 @@ TextureImporter:
         width: 64
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2213,7 +2213,7 @@ TextureImporter:
         width: 63
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2221,6 +2221,1035 @@ TextureImporter:
       bones: []
       spriteID: 186e2e6ea152b6d4c90c01abf19683a0
       internalID: -1435185580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa3e4dac49f45a41996fd9d544aaf4c
+      internalID: 2025261582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_102
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8049a8af386e149b32359e46fa800f
+      internalID: 37779512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5f119271c9d494586cabd29b96b3ea
+      internalID: -1392917864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c9a08b206d5e46a8917179aa31b87
+      internalID: 542727085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403ec7e96d69e7347a183f65e898b2e5
+      internalID: 59632439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3125dcf959a2ac24dbd1d8465b9508bc
+      internalID: -1978450130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a296b83988faf0846a9af05f4e39a0bb
+      internalID: 607950032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f90b7a80ae611468365f2787519b91
+      internalID: 1997203289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b977083eb2d04f144b90bc8a1b523eeb
+      internalID: 49279393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc31a58fb632847b6a345a4d49a377
+      internalID: 470612447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8405c2cc719b6bf448dd4b5b7110a884
+      internalID: 1740213212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1bf02ba1a929645b3d2d6efaa30286
+      internalID: -1137064467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee87f676c00e2458fffc03aae668fe
+      internalID: -1735998862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_114
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee7e3a37571f6e488b9f0698c412059
+      internalID: -1744362445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53faaa0c79603af4aa8cc038d87a94ef
+      internalID: -1404004231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11298ea1e6a23d43972b1bde72653ee
+      internalID: 794853839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f017bb30431db4d83071d3e7d22dc4
+      internalID: -1079027336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6239e48125e50ad4aa17a56502ee95bb
+      internalID: 449801166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3840022b67e706447ba550bc8bad579c
+      internalID: 403442586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d441642a2ca199744b4f9636e9009979
+      internalID: 795708097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7edca1f8eec414fa4828567f7ea6d2
+      internalID: -882813583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eadd4f2ba1538469f2016326f340e4
+      internalID: 1920085587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d6360aafa775140b1b2d851b898b3b
+      internalID: -640345101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402729f41a11aea49a2f59df5362a4ec
+      internalID: -626848403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3137e6e0a67840449a7c02b7f98a1ec
+      internalID: 1954494188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a7386717c05947919f1544275772e
+      internalID: -1817989883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3a35fcb8143745a43130e94ce3d0e
+      internalID: 658983352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f505841dd8324083466ad2b0605a3
+      internalID: 1010687155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9181d3ad16e27fb4b907ca15d482cbd0
+      internalID: 627093326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47bd3a5e199f145bf8a39d14acbd65
+      internalID: 778735793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6201bc8efecdd40b30d349e3f7ded6
+      internalID: 2085928507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd641ca1497ee5418e39e69aeccb4c2
+      internalID: -1985122153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9acf299ed78e534d9717076a9467e30
+      internalID: 1388401979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341b8c5c8b1d49d4592b13e521483d25
+      internalID: -2035370724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f28e015d5f3a2d42824d9c6fe09ca25
+      internalID: -185285949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3596071535b81e747a4cdcf96177d717
+      internalID: 353542401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f16ff6505f9642bf8e6719af1efde
+      internalID: 18122522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447212b42e944f4e8f4bfef95c416bf
+      internalID: 564170079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5165c35111e1a41baab21ab27ff0ab
+      internalID: 625063180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_140
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac7037448c9de84a8e5237889ed109a
+      internalID: -1665433223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5204048c0f5c27449af76b83b6a29b4
+      internalID: -995620568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1b1521693d2f4fa9ff08164c08ebb
+      internalID: 226919118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a473b67419d124ba99ff9cf7914526
+      internalID: -790094599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac1ca4b746f0034b9b89f699908b2fd
+      internalID: 26850509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c51f0ff151804f86bbb1bac030bfc
+      internalID: -1297802409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be07defd968300848bdcecca497b866e
+      internalID: -1961886998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3eec4b7bb362f4c93d34b78afbcda8
+      internalID: 1560556451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_148
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525f87af26550fd47a836a669f47264c
+      internalID: 969242617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Ruins_Free_Tileset_NoBG_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee28e62f081e144aaf24427442ab39c
+      internalID: -2035120172
       vertices: []
       indices: 
       edges: []
@@ -2241,21 +3270,32 @@ TextureImporter:
       Stone_Ruins_Free_Tileset_NoBG_36: 301236798
       Stone_Ruins_Free_Tileset_NoBG_91: 1319790159
       Stone_Ruins_Free_Tileset_NoBG_22: -197741
+      Stone_Ruins_Free_Tileset_NoBG_129: 627093326
+      Stone_Ruins_Free_Tileset_NoBG_145: -1297802409
       Stone_Ruins_Free_Tileset_NoBG_18: 1096567243
       Stone_Ruins_Free_Tileset_NoBG_9: -1213212715
       Stone_Ruins_Free_Tileset_NoBG_66: 1188167823
       Stone_Ruins_Free_Tileset_NoBG_11: -1826912316
+      Stone_Ruins_Free_Tileset_NoBG_108: 1997203289
       Stone_Ruins_Free_Tileset_NoBG_70: -287980834
       Stone_Ruins_Free_Tileset_NoBG_43: -904711793
+      Stone_Ruins_Free_Tileset_NoBG_128: 1010687155
+      Stone_Ruins_Free_Tileset_NoBG_127: 658983352
       Stone_Ruins_Free_Tileset_NoBG_63: -196458977
       Stone_Ruins_Free_Tileset_NoBG_33: 1951209446
       Stone_Ruins_Free_Tileset_NoBG_20: 400932169
       Stone_Ruins_Free_Tileset_NoBG_55: -537947280
       Stone_Ruins_Free_Tileset_NoBG_56: 179264065
       Stone_Ruins_Free_Tileset_NoBG_98: -1557541311
+      Stone_Ruins_Free_Tileset_NoBG_123: -640345101
+      Stone_Ruins_Free_Tileset_NoBG_147: 1560556451
+      Stone_Ruins_Free_Tileset_NoBG_131: 2085928507
+      Stone_Ruins_Free_Tileset_NoBG_148: 969242617
       Stone_Ruins_Free_Tileset_NoBG_81: -1089265623
+      Stone_Ruins_Free_Tileset_NoBG_112: -1137064467
       Stone_Ruins_Free_Tileset_NoBG_16: -1673024248
       Stone_Ruins_Free_Tileset_NoBG_35: -1535113752
+      Stone_Ruins_Free_Tileset_NoBG_120: 795708097
       Stone_Ruins_Free_Tileset_NoBG_61: -1800301534
       Stone_Ruins_Free_Tileset_NoBG_48: -639960204
       Stone_Ruins_Free_Tileset_NoBG_15: 787583997
@@ -2263,18 +3303,26 @@ TextureImporter:
       Stone_Ruins_Free_Tileset_NoBG_69: -810591041
       Stone_Ruins_Free_Tileset_NoBG_23: 141513739
       Stone_Ruins_Free_Tileset_NoBG_51: 1928415152
+      Stone_Ruins_Free_Tileset_NoBG_133: 1388401979
+      Stone_Ruins_Free_Tileset_NoBG_141: -995620568
+      Stone_Ruins_Free_Tileset_NoBG_116: 794853839
       Stone_Ruins_Free_Tileset_NoBG_19: -275015505
       Stone_Ruins_Free_Tileset_NoBG_49: -1643216604
       Stone_Ruins_Free_Tileset_NoBG_83: -1092477366
       Stone_Ruins_Free_Tileset_NoBG_53: -1210066640
       Stone_Ruins_Free_Tileset_NoBG_68: 846132006
+      Stone_Ruins_Free_Tileset_NoBG_139: 625063180
       Stone_Ruins_Free_Tileset_NoBG_17: 1614711335
       Stone_Ruins_Free_Tileset_NoBG_75: -217461472
       Stone_Ruins_Free_Tileset_NoBG_42: 184103700
+      Stone_Ruins_Free_Tileset_NoBG_142: 226919118
       Stone_Ruins_Free_Tileset_NoBG_97: -243923406
       Stone_Ruins_Free_Tileset_NoBG_2: 227272479
+      Stone_Ruins_Free_Tileset_NoBG_146: -1961886998
       Stone_Ruins_Free_Tileset_NoBG_90: -1213590375
       Stone_Ruins_Free_Tileset_NoBG_102: 37779512
+      Stone_Ruins_Free_Tileset_NoBG_140: -1665433223
+      Stone_Ruins_Free_Tileset_NoBG_118: 449801166
       Stone_Ruins_Free_Tileset_NoBG_84: -1881631518
       Stone_Ruins_Free_Tileset_NoBG_59: 2052216226
       Stone_Ruins_Free_Tileset_NoBG_78: -653764015
@@ -2288,6 +3336,7 @@ TextureImporter:
       Stone_Ruins_Free_Tileset_NoBG_72: 301034935
       Stone_Ruins_Free_Tileset_NoBG_73: 517009063
       Stone_Ruins_Free_Tileset_NoBG_62: 1056704241
+      Stone_Ruins_Free_Tileset_NoBG_137: 18122522
       Stone_Ruins_Free_Tileset_NoBG_31: -1165701493
       Stone_Ruins_Free_Tileset_NoBG_92: -1428452723
       Stone_Ruins_Free_Tileset_NoBG_99: 2137451700
@@ -2295,22 +3344,33 @@ TextureImporter:
       Stone_Ruins_Free_Tileset_NoBG_6: 859868700
       Stone_Ruins_Free_Tileset_NoBG_85: 939267932
       Stone_Ruins_Free_Tileset_NoBG_0: -1041429530
+      Stone_Ruins_Free_Tileset_NoBG_107: 607950032
       Stone_Ruins_Free_Tileset_NoBG_37: -1213174791
       Stone_Ruins_Free_Tileset_NoBG_88: -1660090955
+      Stone_Ruins_Free_Tileset_NoBG_124: -626848403
+      Stone_Ruins_Free_Tileset_NoBG_113: -1735998862
       Stone_Ruins_Free_Tileset_NoBG_28: -1493885534
+      Stone_Ruins_Free_Tileset_NoBG_95: 1588562578
       Stone_Ruins_Free_Tileset_NoBG_65: -1889431765
       Stone_Ruins_Free_Tileset_NoBG_57: 1705017407
       Stone_Ruins_Free_Tileset_NoBG_64: 1894914268
       Stone_Ruins_Free_Tileset_NoBG_24: 1826903341
       Stone_Ruins_Free_Tileset_NoBG_25: -694302709
+      Stone_Ruins_Free_Tileset_NoBG_136: 353542401
       Stone_Ruins_Free_Tileset_NoBG_76: 1925165550
-      Stone_Ruins_Free_Tileset_NoBG_95: 1588562578
+      Stone_Ruins_Free_Tileset_NoBG_143: -790094599
+      Stone_Ruins_Free_Tileset_NoBG_130: 778735793
       Stone_Ruins_Free_Tileset_NoBG_47: -282812716
       Stone_Ruins_Free_Tileset_NoBG_44: 2039075340
+      Stone_Ruins_Free_Tileset_NoBG_106: -1978450130
+      Stone_Ruins_Free_Tileset_NoBG_134: -2035370724
+      Stone_Ruins_Free_Tileset_NoBG_104: 542727085
       Stone_Ruins_Free_Tileset_NoBG_93: -2143182453
       Stone_Ruins_Free_Tileset_NoBG_32: -758013316
       Stone_Ruins_Free_Tileset_NoBG_8: -1356289994
       Stone_Ruins_Free_Tileset_NoBG_79: -1180867305
+      Stone_Ruins_Free_Tileset_NoBG_126: -1817989883
+      Stone_Ruins_Free_Tileset_NoBG_111: 1740213212
       Stone_Ruins_Free_Tileset_NoBG_10: -1909801449
       Stone_Ruins_Free_Tileset_NoBG_7: 1374505198
       Stone_Ruins_Free_Tileset_NoBG_50: 800241864
@@ -2320,23 +3380,38 @@ TextureImporter:
       Stone_Ruins_Free_Tileset_NoBG_5: -1096952206
       Stone_Ruins_Free_Tileset_NoBG_13: 394565817
       Stone_Ruins_Free_Tileset_NoBG_54: 296562740
+      Stone_Ruins_Free_Tileset_NoBG_125: 1954494188
+      Stone_Ruins_Free_Tileset_NoBG_115: -1404004231
+      Stone_Ruins_Free_Tileset_NoBG_138: 564170079
+      Stone_Ruins_Free_Tileset_NoBG_132: -1985122153
+      Stone_Ruins_Free_Tileset_NoBG_114: -1744362445
       Stone_Ruins_Free_Tileset_NoBG_3: 1033401897
       Stone_Ruins_Free_Tileset_NoBG_14: 1344059134
       Stone_Ruins_Free_Tileset_NoBG_77: 830697358
+      Stone_Ruins_Free_Tileset_NoBG_105: 59632439
+      Stone_Ruins_Free_Tileset_NoBG_117: -1079027336
       Stone_Ruins_Free_Tileset_NoBG_58: -7598972
+      Stone_Ruins_Free_Tileset_NoBG_149: -2035120172
+      Stone_Ruins_Free_Tileset_NoBG_135: -185285949
       Stone_Ruins_Free_Tileset_NoBG_82: 456989514
       Stone_Ruins_Free_Tileset_NoBG_38: 2076268040
+      Stone_Ruins_Free_Tileset_NoBG_121: -882813583
+      Stone_Ruins_Free_Tileset_NoBG_122: 1920085587
       Stone_Ruins_Free_Tileset_NoBG_52: -482282720
       Stone_Ruins_Free_Tileset_NoBG_1: 1732196520
       Stone_Ruins_Free_Tileset_NoBG_71: 1310989761
+      Stone_Ruins_Free_Tileset_NoBG_109: 49279393
       Stone_Ruins_Free_Tileset_NoBG_34: -1082281750
       Stone_Ruins_Free_Tileset_NoBG_21: -1268335378
       Stone_Ruins_Free_Tileset_NoBG_27: -1158231565
       Stone_Ruins_Free_Tileset_NoBG_87: 1165762048
       Stone_Ruins_Free_Tileset_NoBG_67: -611652893
       Stone_Ruins_Free_Tileset_NoBG_96: -905407513
+      Stone_Ruins_Free_Tileset_NoBG_110: 470612447
       Stone_Ruins_Free_Tileset_NoBG_103: -1392917864
+      Stone_Ruins_Free_Tileset_NoBG_119: 403442586
       Stone_Ruins_Free_Tileset_NoBG_45: 858018410
+      Stone_Ruins_Free_Tileset_NoBG_144: 26850509
       Stone_Ruins_Free_Tileset_NoBG_89: -1890842391
       Stone_Ruins_Free_Tileset_NoBG_60: 1141416647
       Stone_Ruins_Free_Tileset_NoBG_26: 95254009
