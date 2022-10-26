@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 10
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -717,9 +717,8 @@ TextureImporter:
     nameFileIdTable:
       Han_Tuymi_sprite_sheet_true_6: 1358740952
       Han_Tuymi_sprite_sheet_true_27: 1927038508
-      Han_Tuymi_sprite_sheet_true_15: 320572431
-      Han_Tuymi_sprite_sheet_true_4: 1342461105
       Han_Tuymi_sprite_sheet_true_18: 1502377574
+      Han_Tuymi_sprite_sheet_true_4: 1342461105
       Han_Tuymi_sprite_sheet_true_26: 1363013763
       Han_Tuymi_sprite_sheet_true_9: 2028305139
       Han_Tuymi_sprite_sheet_true_23: -8467981
@@ -739,9 +738,10 @@ TextureImporter:
       Han_Tuymi_sprite_sheet_true_19: -859156012
       Han_Tuymi_sprite_sheet_true_1: -1028734235
       Han_Tuymi_sprite_sheet_true_7: 1591569738
-      Han_Tuymi_sprite_sheet_true_0: -1671379034
+      Han_Tuymi_sprite_sheet_true_15: 320572431
       Han_Tuymi_sprite_sheet_true_5: 2034515123
       Han_Tuymi_sprite_sheet_true_8: 51517181
+      Han_Tuymi_sprite_sheet_true_0: -1671379034
       Han_Tuymi_sprite_sheet_true_14: -322315308
   spritePackingTag: 
   pSDRemoveMatte: 0
